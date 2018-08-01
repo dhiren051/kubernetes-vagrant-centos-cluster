@@ -178,6 +178,11 @@ Traefik UI URL: <http://traefik.jimmysong.io>
 
 ![Traefik Ingress controller](images/traefik-ingress.gif)
 
+** setup dns **
+vagrant install dns 
+vagrant dns —start
+
+** 
 **EFK**
 
 Run this command on your local machine.
